@@ -253,7 +253,7 @@ If you find this work helpful, please help star the repository and consider citi
 
 ## Acknowledgments
 
-We sincerely thank the great work [VGGT](https://vgg-t.github.io/), [WorldMirror](https://3d-models.hunyuan.tencent.com/world/), [Depth Anything 3](https://depth-anything-3.github.io/), [Wan-Video](https://github.com/Wan-Video/Wan2.1), [TrajectoryCrafter](https://trajectorycrafter.github.io/), and [ReCamMaster](https://jianhongbai.github.io/ReCamMaster/) for their inspiring work and contributions to the 3D and video generation community.
+We sincerely thank the great work [VGGT](https://vgg-t.github.io/), [WorldMirror](https://3d-models.hunyuan.tencent.com/world/), [Depth Anything 3](https://depth-anything-3.github.io/), [Wan-Video](https://github.com/Wan-Video/Wan2.1), [TrajectoryCrafter](https://trajectorycrafter.github.io/), [ReCamMaster](https://jianhongbai.github.io/ReCamMaster/), and [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) for their inspiring work and contributions to the 3D and video generation community.
 
 ## Contact Us
 
