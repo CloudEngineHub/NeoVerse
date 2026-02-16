@@ -24,6 +24,14 @@ https://github.com/user-attachments/assets/4c957bd7-64e1-4a7e-9993-136740d911fe
 - **[2026-02-16]** Release inference scripts and model checkpoints in both [Hugging Face](https://huggingface.co/Yuppie1204/NeoVerse) and [ModelScope](https://www.modelscope.cn/models/Yuppie1204/NeoVerse).
 - **[2026-01-01]** Release arXiv paper.
 
+
+## TL;DR
+
+- **Simple Inference Script** — Generate novel-trajectory videos with a single `python inference.py` command
+- **Interactive Gradio Demo** — Step-by-step web UI for reconstruction, trajectory design, and generation
+- **Multiple Reconstructors** — Supports different 3D reconstructors (e.g., Depth Anything 3) via a plug-and-play interface
+- **Fast Inference** — Inference pipeline completes in under 30 seconds with distilled LoRA acceleration on a single A800.
+
 ## Installation
 
 ### Step 1: Install Dependencies
